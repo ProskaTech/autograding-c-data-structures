@@ -1,14 +1,5 @@
-# Autograding Example: C
-This example project is written in C, and tested with make and bash scripts.
-
-### The assignment
-The tests are currently failing because we're printing the wrong string. Correcting the `printf` will fix the tests.
-
-### Setup command
-N/A
-
-### Run command
-`make test`
-
-### Notes
-- `gcc` can be used to compile and link C applications for use with existing test harnesses or C testing frameworks.
+## Data Structures (Lab Work) Template Guides
+1. Silakan anda upload file c hasil praktikum anda menggunakan Dev C++ atau IDE/text editor lainnya dengan mengupload button ADD FILE
+2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
+3. Setiap file c anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
+4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
